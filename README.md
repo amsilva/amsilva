@@ -1,6 +1,7 @@
 ### Hi there :evergreen_tree:
 
-bel. and msc. in computer science; systems analyst, lecturer and researcher in software engineering; hci, gpl, lean and agil enthusiast.
+bel. and msc. in computer science; systems analyst, lecturer and researcher in software engineering; hci, [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+, lean and agil enthusiast.
 
 ##### :sound: contact 
 - andre.marcos@gmail.com
