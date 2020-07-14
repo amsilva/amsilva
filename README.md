@@ -1,14 +1,16 @@
 ### Hi there :evergreen_tree:
 
-bel. and msc. in computer science; systems analyst, lecturer and researcher in software engineering; hci, [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-, lean and agil enthusiast.
+bel. and msc. in computer science; systems analyst, lecturer and researcher in software engineering; hci, gpl, lean and agile enthusiast.
+![open source](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
 
 ##### :sound: contact 
 - andre.marcos@gmail.com
 
 ##### :link: social
-- instagram https://www.instagram.com/andre.marcoss
-- linkedin https://www.linkedin.com/in/amsilva/
+[![Instagram](https://img.shields.io/badge/Instagram-andre.marcoss-important)](https://www.instagram.com/andre.marcoss)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-amsilva-blue)](https://www.linkedin.com/in/amsilva/)
+
 
 ##### :notebook: reports
 - codeproject https://www.codeproject.com/Members/andremarcos
